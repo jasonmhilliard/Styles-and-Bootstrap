@@ -5,9 +5,16 @@ I. File list
 ------------
 CSS Styling and Bootstrap - Microsoft Word Document
 
-indexHTMLStyleExercise - HTML file
+indexHTMLStyleExercise - HTML File
 
-cssStyleExercise - CSS file
+cssStyleExercise - CSS File
+
+oneEyeExercise - HTML File
+
+eyesExercise - HTML File
+
+Eyes - CSS File
+
 
 
 II. Concept
