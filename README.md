@@ -28,7 +28,7 @@ The oneEyeExercise HTML file is a challenging exercise where you try to create t
 
 III. Future Improvements
 ----------
-Try the oneEyeExercise with expessions..like angry eyes!
+Try the oneEyeExercise with expressions..like angry eyes!
 
 IV.  License
 ----------
